@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="hello">Hello,CoreCircle!</string>
+	<string name="app_name">Core Circle</string>
+	<string name="app_select">向导-构建我的核心圈子</string>
+		<string name="app_insert">添加成员</string>
+		<string name="app_replace">替换成员</string>
+		<string name="app_reset">重置全部</string>
+		<string name="app_help">使用帮助</string>
+	<string name="app_about">关于我们</string>
+	<string name="app_exit">退出程序</string>
+
+	<string name="app_abouttxt">Core Circle(Version:1.0)\n\nCore Circle
+		是一款基于通讯录和通话记录等现实生活元素的核心社交圈增强应用。\n\nCopyright©2011
+		WooCore!\n\n联系我们：\ncorecircle@163.com
+	</string>
+	<string name="atv_help">使用帮助</string>
+	<string name="app_sp">Core Circle </string>
+</resources>
